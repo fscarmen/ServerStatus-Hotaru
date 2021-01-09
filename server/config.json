@@ -1,24 +1,65 @@
 {"servers":
 	[
 		{
-			"username": "s01",
-			"password": "password",
-			"name": "Mainserver 1",
-			"type": "Dedicated Server",
-			"host": "No",
-			"location": "America",
-			"disabled": false,
-			"region":"US"
+			   "username": "EU1",
+			   "password": "Apple123",
+			   "name": "EU1",
+			   "type": "OpenVZ",
+			   "host": "None",
+			   "location": "Germany",
+			   "disabled": false ,
+			   "region": "DE"
+  		}, 
+		{
+			   "username": "EU2",
+			   "password": "Apple123",
+			   "name": "EU2",
+			   "type": "OpenVZ",
+			   "host": "None",
+			   "location": "Germany",
+			   "disabled": false ,
+			   "region": "DE"
 		},
 		{
-			"username": "bs01",
-			"password": "password",
-			"name": "Backupserver 1",
-			"type": "Virtual Server",
-			"host": "No",
-			"location": "Japan",
-			"disabled": false,
-			"region":"JP"
+			   "username": "EU3",
+			   "password": "Apple123",
+			   "name": "EU3",
+			   "type": "OpenVZ",
+			   "host": "None",
+			   "location": "Germany",
+			   "disabled": false ,
+			   "region": "DE"
+		},
+		{
+			   "username": "EU4",
+			   "password": "Apple123",
+			   "name": "EU4",
+			   "type": "OpenVZ",
+			   "host": "None",
+			   "location": "Germany",
+			   "disabled": false ,
+			   "region": "DE"
+		},
+		{
+			   "username": "EU5",
+			   "password": "Apple123",
+			   "name": "EU5",
+			   "type": "OpenVZ",
+			   "host": "None",
+			   "location": "Germany",
+			   "disabled": false ,
+			   "region": "DE"
+		},
+		{
+			   "username": "EU6",
+			   "password": "Apple123",
+			   "name": "EU6",
+			   "type": "OpenVZ",
+			   "host": "None",
+			   "location": "Germany",
+			   "disabled": false ,
+			   "region": "DE"
 		}
+
 	]
 }
