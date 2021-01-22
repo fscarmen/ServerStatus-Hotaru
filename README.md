@@ -26,9 +26,12 @@ wget https://raw.githubusercontent.com/CokeMine/ServerStatus-Hotaru/master/statu
 bash status.sh s
 ```
 
+配置文件：/usr/local/ServerStatus/server/config.json
+
 客户端：
 
-```
+```bash
+wget https://raw.githubusercontent.com/CokeMine/ServerStatus-Hotaru/master/status.sh
 bash status.sh c
 ```
 
